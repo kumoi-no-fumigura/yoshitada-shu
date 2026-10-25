@@ -37,7 +37,7 @@ zkt-yoshitada-0286				ル袋おろす跡の早水せきとめて暮行秋をみ�
 zkt-yoshitada-0287				秋果て我せな君の絶しより閨の夜毎をとりぞたてゝし	
 zkt-yoshitada-0288		冬		〇かみな月時雨ふりくるみ山より風さへことに	
 zkt-yoshitada-0289				後れねば四方の木葉の殘りなくながむる空も	
-zkt-yoshitada-0290				晴ずのみ曇りわたればなよ竹の長きよな〓〓	
+zkt-yoshitada-0290				晴ずのみ曇りわたればなよ竹の長きよな／＼	
 zkt-yoshitada-0291				思ひ集めくれ竹のくれゆく冬の	
 zkt-yoshitada-0292				あり樣をこゝろの內にしのぶるとの	
 zkt-yoshitada-0293				苦しさに人のそしりも知ずしてとはず話りを	
